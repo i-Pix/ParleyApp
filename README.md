@@ -1,1 +1,18 @@
 # ParleyApp
+- Native app using (Js, react library, webpack and firebase)
+- UI part is handled by react library 
+- webpack for bundling source files
+- it has multiple views (home,chat, settings, etc)
+- integrated routing system for navigation between these views
+- state management is handled by redux architecture
+- data store by firestore database
+- authentication (login user access)
+- redux middleware for notification
+- able to tell if user is offline or online 
+- connection changes can also be detected
+- chat management (online/offline, join chat)
+- send message to firestore database
+- synchronized message
+- change themes by user
+- application menu
+- can work on windows, linux and macOS
